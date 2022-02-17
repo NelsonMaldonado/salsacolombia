@@ -1,5 +1,7 @@
 import logo from "./logo.svg"
 import "./App.css"
+import { FirebaseAuth } from "react-firebaseui"
+import StyledFirebaseAuth from "react-firebaseui/StyledFirebaseAuth"
 
 function App() {
   return (
