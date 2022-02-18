@@ -10,11 +10,6 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1>SalsaColombia official page</h1>
-          {this.state.isSignedIn ? (
-            <div>Signed In!</div>
-          ) : (
-            <div>Not Signed In!</div>
-          )}
         </header>
       </div>
     )
