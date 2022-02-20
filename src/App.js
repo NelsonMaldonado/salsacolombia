@@ -9,7 +9,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+          <title>SalsaColombia</title>
           <img src={logo} className="App-logo" alt="logo" />
+
           <h1>SalsaColombia official page</h1>
         </header>
         <Home />
