@@ -10,6 +10,7 @@ and choose a random healthy food for the day
 2 - Create a section to write about what you need to
 become a salsa dancer
 3 - Create a tab to vote for the best Salsa Song by Category
+4 - Create a section for exercises only
 
 This project is under construction :)
 Expected launch day March 1!
